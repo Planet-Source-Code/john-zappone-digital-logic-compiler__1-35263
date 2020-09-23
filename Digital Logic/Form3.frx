@@ -1,0 +1,24 @@
+ÿ@This is a quick tutorial on how to program using DL
+
+Always use ( ); at the end of a function ex.
+text( );
+now if you dont have those ( ); markups then the compiler will skip the code and leave it out during the run
+
+setuping up the height, width, posX, and posY commands
+Alright this is not tricky at all now i did say use ( ); after all commands but this is different these are commands for the function.  Ex
+text(Hello);
+{
+posX=1200;
+}
+
+That will set the position of 1200 for the textbox its simple 
+
+Hide and Show functions
+this has to be very easy just declare what you want to hide or show using .hide or .show commands. Ex.
+
+text.hide
+or
+text.show
+
+-
+Well thats a brief tutorial on how to program in DL but there will be many new functions and commands i am hoping to add in API functions if i could.
